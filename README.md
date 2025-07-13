@@ -59,7 +59,7 @@ This is a Python project developed as part of the Software Development I module.
 
 ## Coursework Details
 
-Module: 4COSC006C – Software Development I
-Academic Year: 2024/25
-Institution: Informatics Institute of Technology (IIT), Sri Lanka
-Degree: BSc (Hons) Computer Science – Awarded by the University of Westminster
+- Module: 4COSC006C – Software Development I
+- Academic Year: 2024/25
+- Institution: Informatics Institute of Technology (IIT), Sri Lanka
+- Degree: BSc (Hons) Computer Science – Awarded by the University of Westminster
