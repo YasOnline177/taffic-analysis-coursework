@@ -1,7 +1,3 @@
-#Author: S.A.Y.R. Samaraweera
-#Date: 24/12/2024
-#Student ID: 20231515 / w2120238
-
 # Import Modules
 import csv
 import tkinter as tk
